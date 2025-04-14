@@ -1,0 +1,21 @@
+Flight No.,Date andtime (UTC),"Version,Booster[b]",Launch site,Payload[c],Payload mass,Orbit,Customer,Launchoutcome,Boosterlanding,1,2,3,4,5,6,7,Payload,Launch outcome,Version Booster,Booster landing,Date,Time
+1,,,CCAFS,,0,LEO,SpaceX,,,,,,,,,,Dragon Spacecraft Qualification Unit,Success,F9 v1.07B0003.18,Failure,4 June 2010,18:45
+2,,,CCAFS,,0,LEO,NASA,,,,,,,,,,Dragon,Success,F9 v1.07B0004.18,Failure,8 December 2010,15:43
+3,,,CCAFS,,525 kg,LEO,NASA,,,,,,,,,,Dragon,Success,F9 v1.07B0005.18,"No attempt
+",22 May 2012,07:44
+4,,,CCAFS,,"4,700 kg",LEO,NASA,,,,,,,,,,SpaceX CRS-1,Success,F9 v1.07B0006.18,No attempt,8 October 2012,00:35
+5,,,CCAFS,,"4,877 kg",LEO,NASA,,,,,,,,,,SpaceX CRS-2,Success,F9 v1.07B0007.18,"No attempt
+",1 March 2013,15:10
+6,,,VAFB,,500 kg,Polar orbit,MDA,,,,,,,,,,CASSIOPE,Success,F9 v1.17B10038,Uncontrolled,29 September 2013,16:00
+7,,,CCAFS,,"3,170 kg",GTO,SES,,,,,,,,,,SES-8,Success,F9 v1.1,No attempt,3 December 2013,22:41
+8,,,CCAFS,,"3,325 kg",GTO,Thaicom,,,,,,,,,,Thaicom 6,Success,F9 v1.1,No attempt,6 January 2014,22:06
+9,,,Cape Canaveral,,"2,296 kg",LEO,NASA,,,,,,,,,,SpaceX CRS-3,Success,F9 v1.1,Controlled,18 April 2014,19:25
+10,,,Cape Canaveral,,"1,316 kg",LEO,Orbcomm,,,,,,,,,,Orbcomm-OG2,Success,F9 v1.1,Controlled,14 July 2014,15:15
+11,,,Cape Canaveral,,"4,535 kg",GTO,AsiaSat,,,,,,,,,,AsiaSat 8,Success,F9 v1.1,No attempt,5 August 2014,08:00
+12,,,Cape Canaveral,,"4,428 kg",GTO,AsiaSat,,,,,,,,,,AsiaSat 6,Success,F9 v1.1[,"No attempt
+",7 September 2014,05:00
+13,,,Cape Canaveral,,"2,216 kg",LEO,NASA,,,,,,,,,,SpaceX CRS-4,Success,F9 v1.1[,Uncontrolled,21 September 2014,05:52
+14,,,Cape Canaveral,,"2,395 kg",LEO,NASA,,,,,,,,,,SpaceX CRS-5,Success,F9 v1.1[,Failure ,10 January 2015,09:47
+15,,,Cape Canaveral,,570 kg,HEO,USAF,,,,,,,,,,DSCOVR,Success,F9 v1.1[,Controlled,11 February 2015,23:03
+16,,,Cape Canaveral,,"4,159 kg",GTO,ABS,,,,,,,,,,ABS-3A,Success,F9 v1.1[,No attempt,2 March 2015,03:50
+17,,,Cape Canaveral,,"1,898 kg",LEO,NASA,,,,,,,,,,SpaceX CRS-6,Success,F9 v1.1[,Failure,14 April 2015,20:10
